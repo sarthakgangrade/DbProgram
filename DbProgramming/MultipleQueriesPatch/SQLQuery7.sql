@@ -1,0 +1,1 @@
+update deathnote set brainPower=120 where Charid=3
